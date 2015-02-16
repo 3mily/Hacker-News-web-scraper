@@ -1,5 +1,6 @@
 # Hackerews Web Scraper (practice exercise)
-#### An assignment to familiarize myself with:
+#### This was an assignment in the 2nd week of Lighthouse Labs coding bootcamp.
+#### The aim of this assignment was to become familiar with:
 - Nokogiri gem
 - ARGV for Command-Line arguments
 - curl command line tool.
